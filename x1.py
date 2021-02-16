@@ -1,0 +1,1 @@
+Link will be in Github.com. Click green colour Code button. Select & copy .git link under HTTPS. Then in the terminal type git remote add origin (paste link) after going to the correct Working Directory where git was initialised and has the .git file
